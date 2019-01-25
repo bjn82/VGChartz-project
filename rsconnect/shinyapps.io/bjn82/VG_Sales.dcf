@@ -1,0 +1,13 @@
+name: VG_Sales
+title: VG_Sales
+username:
+account: bjn82
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 568451
+bundleId: 1715182
+url: https://bjn82.shinyapps.io/VG_Sales/
+when: 1542901534.09413
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: VideoGameSales_notebook.Rmd
